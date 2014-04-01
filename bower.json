@@ -1,0 +1,8 @@
+{
+  "name": "angular-foundation",
+  "version": "0.1.0",
+  "main": "./angular-foundation.js",
+  "dependencies": {
+    "angular": "1.2.6"
+  }
+}
