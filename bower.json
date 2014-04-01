@@ -4,5 +4,11 @@
   "main": "./dist/mm-foundation-0.2.0.js",
   "dependencies": {
     "angular": "1.2.6"
-  }
+  },
+  "ignore":[
+    ".jshintrc",
+    "./src/",
+    "./misc/",
+    "./template/"
+  ]
 }
