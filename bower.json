@@ -9,6 +9,7 @@
     ".jshintrc",
     "./src/",
     "./misc/",
-    "./template/"
+    "./template/",
+    "./Gruntfile.js"
   ]
 }
